@@ -1,5 +1,5 @@
 ## Summary
-Describe your changes.
+Describe your changes in detailed otherwise PR may not be accepted.
 
 ## Checklist
 - [ ] Tested locally

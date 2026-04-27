@@ -15,7 +15,7 @@ Use this repository to manage organization-wide defaults such as:
 * `SECURITY.md`
 * Issue templates
 * Pull request templates
-* Funding configuration
+<!-- * Funding configuration -->
 * Shared documentation standards
 
 ---

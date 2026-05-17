@@ -14,6 +14,10 @@ We chose this name because it represents quiet strength rather than loud presenc
 
 Vervain stands for calm innovation, structured thinking, and technology with purpose. It is more than a name — it is the foundation of how we design, create, and grow.
 
+### Important GitHub Repository Files
+
+Each of our GitHub repositories contain important files in their topmost, or root, directories that you should know about. These include:
+
 | File | Purpose |
 | --- | --- |
 | README.md | The README.md file contains a summary of project's purpose. It includes links to other important files in the repository that you should read before starting |

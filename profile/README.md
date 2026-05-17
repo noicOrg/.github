@@ -14,7 +14,11 @@ We chose this name because it represents quiet strength rather than loud presenc
 
 Vervain stands for calm innovation, structured thinking, and technology with purpose. It is more than a name — it is the foundation of how we design, create, and grow.
 
-### Important GitHub Repository Files
+## Our Community
+
+- [Join the community!](https://discord.gg/B3cPuWsu3u)
+
+## Important GitHub Repository Files
 
 Each of our GitHub repositories contain important files in their topmost, or root, directories that you should know about. These include:
 

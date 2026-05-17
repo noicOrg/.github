@@ -18,7 +18,11 @@ Vervain stands for calm innovation, structured thinking, and technology with pur
 
 - [Join the community!](https://discord.gg/B3cPuWsu3u)
 
-## Important GitHub Repository Files
+## Our Repositories
+We do not have so many repositories, but the most active one is <b>Oren</b> `the everything app`.  
+More information on the projects can be found on [our website](https://vervain-labs.vercel.app/) `coming soon`.
+
+### Important GitHub Repository Files
 
 Each of our GitHub repositories contain important files in their topmost, or root, directories that you should know about. These include:
 

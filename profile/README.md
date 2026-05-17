@@ -14,3 +14,8 @@ We chose this name because it represents quiet strength rather than loud presenc
 
 Vervain stands for calm innovation, structured thinking, and technology with purpose. It is more than a name — it is the foundation of how we design, create, and grow.
 
+| File | Purpose |
+| --- | --- |
+| README.md | The README.md file contains a summary of project's purpose. It includes links to other important files in the repository that you should read before starting |
+| CODE_OF_CONDUCT.md | This file contains guidelines of how each contributor in the community should behave and communicate with each other. By doing this we aim to provide a harassment-free environment and also an inclusive, healthy and diverse community. |
+| CONTRIBUTING.md | Everything you need to know to start contributing to our projects can be found here. |

@@ -31,3 +31,6 @@ Each of our GitHub repositories contain important files in their topmost, or roo
 | README.md | The README.md file contains a summary of project's purpose. It includes links to other important files in the repository that you should read before starting |
 | CODE_OF_CONDUCT.md | This file contains guidelines of how each contributor in the community should behave and communicate with each other. By doing this we aim to provide a harassment-free environment and also an inclusive, healthy and diverse community. |
 | CONTRIBUTING.md | Everything you need to know to start contributing to our projects can be found here. |
+  
+---
+**Founded on: `25/04/2026`**
